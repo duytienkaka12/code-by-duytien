@@ -1,0 +1,57 @@
+.Login{
+    width: 180px;
+    height: 180px;
+    padding: 75px;
+    border-top-right-radius: 20%;
+    border-bottom-left-radius: 20%;
+    background-image: url(https://vapa.vn/wp-content/uploads/2022/12/anh-nen-mau-trang-001.jpg);
+    border: 3px solid rgb(48,50,52);
+    color:aliceblue;
+    background: rgba(0, 0, 0, 0.3);
+    
+}
+body{
+    background-image: url(http://media.anhp.vn:8081/files/2022/09IMG-2231.jpg);
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: 106% auto;
+    background-clip: border-box;
+}
+#Title{
+    position: absolute;
+    left: 120px;
+    top: 32px;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    color: rgb(176,224,230);
+}
+#Mat-khau{
+    margin-bottom: 0%;
+}
+#Email{
+    margin-bottom: 0%;
+}
+#Name{
+    margin:0%;
+}
+.bo{
+    border-bottom: 20%;
+    border-top: 20%;
+    border-left: 20%;
+    border-right: 20%;
+    width: 200px;
+    height: 20.4px; 
+    background-color: aliceblue;
+}
+#Bam-vo{
+    margin-top:10px;
+    position: absolute;
+    left: 120px;
+    top: 260px;
+    width: 106.69px;
+    height: 37.6px;
+    color: black;
+    background-color: #AECCE4;
+    font-family: ARIAL BOLD;
+}
